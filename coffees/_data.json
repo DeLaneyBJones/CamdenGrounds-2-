@@ -1,0 +1,38 @@
+{
+	"coffee1":{
+		"name":"Monster One",
+		"price":2.99,
+		"image":"monster1.png",
+		"short":"Bodybuilder"
+	},
+	"coffee2":{
+		"name":"Monster Two",
+		"price":9.99,
+		"image":"monster2.png",
+		"short":"Tree"
+	},
+	"coffee3":{
+		"name":"Monster Three",
+		"price":1.99,
+		"image":"monster3.png",
+		"short":"Whirl"
+	},
+	"coffee4":{
+		"name":"Monster Four",
+		"price":3.99,
+		"image":"monster4.png",
+		"short":"Eyeball"
+	},
+	"coffee5":{
+		"name":"Monster Five",
+		"price":2.99,
+		"image":"monster5.png",
+		"short":"FireFish"
+	},
+	"coffee6":{
+		"name":"Monster Six",
+		"price":4.99,
+		"image":"monster6.png",
+		"short":"Septapus"
+	}
+}

@@ -1,0 +1,19 @@
+<div id="figure">
+	<img src="images/headline-locations.jpg" alt="Image">
+</div>
+<div>
+	<a href="locations.html" class="locations">Locations</a>
+	<div>
+		<% for(idx in locations) { %>
+		<dl>
+			<dt><%- locations[idx].name %></dt>
+			<dd><%- locations[idx].address %></dd>
+			<dd><%- locations[idx].phone %></dd>
+			<dd><%- locations[idx].hours %></dd>
+		</dl>
+		<% } %>
+	</div>
+	<div>
+		<p>I would set up an api to pull the maps, but I can't do so without setting up a billing system. Therefore, I am not going to.</p>
+	</div>
+</div>

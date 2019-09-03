@@ -1,0 +1,36 @@
+{
+	"globals":{
+		"locations":[
+			{
+				"name":"Kodiak Coffee Company",
+				"address":"1702 21st Street, Lewiston, ID",
+				"hours":"Mon-Sat 7AM to 5PM",
+				"phone":"208-7460-3003"
+			},
+			{
+				"name":"Starbucks",
+				"address":"303 Bridge Street, Clarkston, WA",
+				"hours":"Mon-Thurs & Sat 5:30AM to 5:30PM, Friday 5:30AM to 7PM, Sunday 6AM to 5:30PM",
+				"phone":"509-751-8471"
+			},
+			{
+				"name":"Dutch Bros",
+				"address":"143 Thain Road, Lewiston, ID",
+				"hours":"Sun-Thu 5AM to 10PM, Fri-Sat 5AM to 11PM",
+				"phone":"541-955-4700"
+			},
+			{
+				"name":"The Blue Lantern Coffee House",
+				"address":"326 Main Stree, Lewiston, ID",
+				"hours":"Mon-Sat 7AM to 9PM, Sun 8AM to 4PM",
+				"phone":"208-790-1148"
+			},
+			{
+				"name":"Kenzie's Koffee",
+				"address":"1264 Bridge Street, Clarkston, WA",
+				"hours":"Mon-Fri 5AM to 7PM, Sat-Sun 6AM to 7PM",
+				"phone":"509-552-5833"
+			}
+		]
+	}
+}
